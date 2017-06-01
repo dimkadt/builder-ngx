@@ -1,0 +1,9 @@
+wget --no-check-certificate https://github.com/agentzh/headers-more-nginx-module/archive/master.zip -O ext-headers-more-nginx-module-master.zip
+wget --no-check-certificate https://github.com/arut/nginx-dav-ext-module/archive/master.zip -O nginx-dav-ext-module.zip
+wget --no-check-certificate https://www.modsecurity.org/tarball/${MODSECURITY_VERSION}/modsecurity-${MODSECURITY_VERSION}.tar.gz
+wget --no-check-certificate https://github.com/nginx/njs/archive/master.zip -O njs.zip
+wget --no-check-certificate https://bitbucket.org/nginx-goodies/nginx-sticky-module-ng/get/08a395c66e42.zip -O nginx-sticky-module-ng.zip
+wget --no-check-certificate https://github.com/yaoweibin/nginx_upstream_check_module/archive/master.zip -O nginx_upstream_check_module.zip
+wget --no-check-certificate https://github.com/yaoweibin/nginx_tcp_proxy_module/archive/master.zip -O nginx_tcp_proxy_module.zip
+wget --no-check-certificate https://github.com/nbs-system/naxsi/archive/master.zip -O naxsi.zip
+wget --no-check-certificate https://nginx.org/download/nginx-${NGINX_VERSION}.tar.gz
